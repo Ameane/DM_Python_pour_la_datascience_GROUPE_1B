@@ -1,0 +1,6 @@
+pandas>=2.0
+matplotlib>=3.7
+great-tables>=0.14
+cartiflette
+jupyter
+ipykernel
