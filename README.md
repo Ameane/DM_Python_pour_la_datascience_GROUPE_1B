@@ -10,8 +10,11 @@ Ce dépôt GitHub contient le notebook Jupyter réalisé dans le cadre de l’é
 - `main.ipynb` : notebook principal
 - `requirements.txt` : liste des dépendances Python
 - `README.md` : consignes d’installation et d’exécution
+- `utils.py` : fonctions de chargement et de transformation des données
+- `analysis.ipynb` : exploration et vérification qualité des données
 
-## Lancer le projet
+
+## Pour voir les réponses aux questions
 
 ### 1. Lancement
 

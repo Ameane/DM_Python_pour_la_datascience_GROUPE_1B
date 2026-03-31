@@ -16,7 +16,7 @@ def load_data(url: str = URL_DATA) -> pd.DataFrame:
     - `code_commune` est lu comme chaîne pour préserver les zéros initiaux
       (ex. '001', '028'), car il s'agit d'un identifiant administratif.
     - `low_memory=False` stabilise l'inférence des types à l'import
-      et évite ici le DtypeWarning observé avec la lecture par morceaux.
+      et évite ici le DtypeWarning observé.
     """
     df = pd.read_csv(url, dtype={"code_commune": str}, low_memory=False)
     return df
