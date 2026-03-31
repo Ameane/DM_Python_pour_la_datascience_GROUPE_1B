@@ -16,7 +16,7 @@ Ce dépôt GitHub contient le notebook Jupyter réalisé dans le cadre de l’é
 ### 1. Lancement
 
 ```bash
-cd DM_Python_pour_la_datascience_Amine_MOHAMED-BENKADDA
+cd DM_Python_pour_la_datascience_GROUPE_1B
 ```
 
 ### 2. Installer les dépendances
